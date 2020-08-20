@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: root
+    password: Mumu9568
+    url: jdbc:mysql://localhost:3306/mybatis?
